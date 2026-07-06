@@ -1,0 +1,11 @@
+{
+    "name": "simple-toolkit",
+    "version": "1.0.0",
+    "description": "A small CLI tool to batch-rename files using patterns.",
+    "main": "index.js",
+    "bin": {
+          "simple-toolkit": "./index.js"
+    },
+    "license": "MIT",
+    "author": "caleb-learns"
+}
